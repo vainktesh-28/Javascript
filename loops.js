@@ -10,3 +10,9 @@ while(i<=10){
 for( i = 1; i<=10; i++ ){
     console.log("Vainktesh singh")
 }
+
+// Do while loop
+do {
+    console.log("Vishal")
+    i++
+} while(i <=5);
