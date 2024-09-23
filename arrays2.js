@@ -17,3 +17,7 @@ arr.reverse();  // Reverse an array
 console.log(arr)
 
 console.log(arr.indexOf(4));
+
+let arr5 = [1, 2, 3, 4, 5, 6, 7];
+
+console.log(arr5.slice(1, 3));  // Seperate an array from given index
